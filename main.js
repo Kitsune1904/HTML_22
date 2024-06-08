@@ -80,8 +80,6 @@ const fullShopArr = [
   createProto(cosmeticsProducts, Cosmetics),
 ];
 
-console.log(fullShopArr);
-
 fullShopArr.forEach((arr) => {
   document.write(`
     <div class=category-holder>
