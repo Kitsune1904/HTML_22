@@ -19,16 +19,16 @@ body {
     background-color: #e4e4e4;
     border-radius: 8px;
     padding: 30px;
-}
-
-.image-holder{
-    text-align: center;
-    img {
-        width: 50%;
+    .image-holder{
+        text-align: center;
+        img {
+            width: 50%;
+        }
+    }
+    span {
+        font-weight: 700;
+        text-transform: capitalize;
     }
 }
 
-span {
-    font-weight: 700;
-    text-transform: capitalize;
-}
+
